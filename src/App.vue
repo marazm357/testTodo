@@ -72,6 +72,10 @@ watch(
 </script>
 
 <style scoped>
+* {
+  font-family: "Roboto", sans-serif;
+}
+
 #app {
   display: flex;
   flex-direction: column;
